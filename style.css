@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+body {
+    background-color: #0F172A;;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+
+}
+
+h1 {
+    color: #FFF;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 55px;
+    font-weight: 500;
+    margin-top: 0px;
+    margin-bottom: 68px;
+    
+
+}
+
+.odejmij-js {
+    width: 184px;
+    background-color: #0F172A;
+    color: #EF4444;
+    height: 23px;
+    font-family: Roboto;
+    font-size: 14px;
+    border: 0px;
+    margin-top: 37px;
+}
+
+.dodaj-js {
+    width: 224px;
+    height: 48px;
+    background-color: #FFF;
+    font-family: Roboto;
+    font-size: 18px;
+    border-radius: 4px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.licznik-js {
+    background-image: url("water-glass.svg");
+    width: 280px;
+    height: 280px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 128px;
+    margin-top: 0px;
+    margin-bottom: 48px;
+}
